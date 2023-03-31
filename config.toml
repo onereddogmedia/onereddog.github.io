@@ -1,0 +1,111 @@
+baseurl      = "http://localhost:1313/"
+title        = "onereddog"
+languageCode = "en-us"
+theme        = ["hello-friend-ng", "hugo-notice"]
+paginate     = 10
+pluralizelisttitles = false
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Adventures in audio software, application security and music making."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "One Red Dog Media is a developer of audio software, application security engineering, and music producer."
+  keywords = "blog, audio, dsp, appsec, juce, music, dev, developer"
+
+  enableThemeToggle = true
+  defaultTheme = "dark" 
+  PygmentsCodeFences = true
+  PygmentsStyle = "monokai"
+
+[params.footer]
+  trademark = true
+  rss = false
+  copyright = true
+  author = true
+
+  topText = []
+  bottomText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+          "Made with &#10084; by onereddog"]
+  websiteterms = "/pages/<page-name>"
+  privacypolicy = "/pages/<page-name>"
+
+# Colors for favicons
+#
+[params.favicon.color]
+  mask = "#1b1c1d"
+  msapplication = "#1b1c1d"
+  theme = "#1b1c1d"
+
+[author]
+  name = "onereddog"
+
+[params.logo]
+  logoMark     = ">"
+  logoText     = "$ ./onereddog"
+  logoHomeLink = "/"
+  # Set true to remove the logo cursor entirely.
+  logoCursorDisabled = false
+  # Set to a valid CSS color to change the cursor in the logo.
+  logoCursorColor    = "#CC5234"
+  # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+  logoCursorAnimate  = "1s"
+
+[taxonomies]
+    category = "categories"
+    tag      = "tags"
+    series   = "series"
+
+[[params.social]]
+  name = "email"
+  url  = "mailto:support@onereddog.com.au"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/onereddogmedia"
+
+[[params.social]]
+  name = "instagram"
+  url  = "https://www.instagram.com/twofloorsrecords/"
+
+[[params.social]]
+  name = "linkedin"
+  url  = "https://www.linkedin.com/in/pjohnson10/"
+
+[languages]
+  [languages.en]
+    title = "onereddog"
+    subtitle = "Ramblings of software developer"
+    keywords = ""
+    readOtherPosts = "Read other posts"
+
+  [[menu.main]]
+    identifier = "appsec"
+    name       = "AppSec"
+    url        = "appsec/"
+
+  [[menu.main]]
+    identifier = "apps"
+    name       = "Software & Apps"
+    url        = "apps/"
+
+  [[menu.main]]
+    identifier = "music"
+    name       = "Music"
+    url        = "music/"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
