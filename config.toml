@@ -86,7 +86,6 @@ pluralizelisttitles = false
 [languages]
   [languages.en]
     title = "onereddog"
-    subtitle = "Ramblings of software developer"
     keywords = ""
     readOtherPosts = "Read other posts"
 
