@@ -6,3 +6,4 @@ The website is generated using Hugo and hosted on Github Pages. The 'main' branc
 for Hugo to generate a static website.
 
 For more information on this workflow refer [here](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
+
