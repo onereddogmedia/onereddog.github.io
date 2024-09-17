@@ -14,4 +14,3 @@ Composed and Produced by Peter R. Johnson
 Mastered by Jonathan Carlile  
 
 Peter R. Johnson played the following instruments: Sequential Prophet 12, Arturia V, MorphWiz Pro, Ableton Live, iPhone XS Max, Zoom H1n
-
