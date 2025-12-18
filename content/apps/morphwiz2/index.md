@@ -16,9 +16,6 @@ The ultimate synthesizer for musicians and music enthusiasts alike.
 
 
 ### Credits
-{{< notice info >}}
-XK-1 Requires iOS 7.0 or later. iPad 2 or later is recommended.
-{{< /notice >}}
 
 | Credits |  | 
 | --- | --- |
