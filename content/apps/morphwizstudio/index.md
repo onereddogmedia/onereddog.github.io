@@ -1,8 +1,8 @@
 +++
-title = "MorphWiz 2"
+title = "MorphWiz Studio"
 date = "2025-01-18"
 aliases = ["xk1"]
-tags = ["morphwiz2", "ipad", "iphone"]
+tags = ["morphwizstudio", "ipad", "iphone"]
 categories = ["apps", "software"]
 [ author ]
   name = "onereddog"
@@ -10,7 +10,7 @@ categories = ["apps", "software"]
 
 The ultimate synthesizer for musicians and music enthusiasts alike.
 
-[Visit MorphWiz 2 Website](https://www.morphwiz2.com)
+[Visit MorphWiz Studio Website](https://www.morphwiz2.com)
 
 {{< imgproc "main.jpg" Resize "800x" />}}
 
