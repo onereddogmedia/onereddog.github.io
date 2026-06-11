@@ -15,3 +15,5 @@ These days, I mostly write about things that I'm either doing, or that interest 
 The original red dog:  
 
 ![It's me](/images/real_red_dog.jpg)
+
+[Legal & Privacy]({{< relref "privacy.md" >}})
